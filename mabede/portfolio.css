@@ -1,4 +1,25 @@
 body{
-    background-color: rgb(152, 160, 206);
-    color: white;
+font-family:Arial, sans-serif;
+line-height: 1.6;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: aquamarine;
 }
+/* heading selector*/
+h1{
+    color: blue;
+    text-align: center;
+    border-bottom: 2px saddlebrown;
+    padding-bottom: 10px;
+}
+h2{
+    color:black
+}
+/*class selector*/
+.skill-list{
+    background-color: beige;
+    padding: 15px;
+    border-radius: 5px;
+}
+
